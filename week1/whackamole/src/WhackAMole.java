@@ -1,12 +1,14 @@
+import org.jetbrains.annotations.Contract;
+
 import java.util.Scanner;
 
 public class WhackAMole {
 
     // Instance variables
-    public int score;
-    public int molesLeft;
-    public int attemptsLeft;
-    public char[][] moleGrid;
+    private int score;
+    private int molesLeft;
+    private int attemptsLeft;
+    private char[][] moleGrid;
 
     // Constructors
     public WhackAMole(int numAttempts, int gridDimension) {
@@ -19,6 +21,7 @@ public class WhackAMole {
         }
     }
 
+    @Contract(pure = true)
     public WhackAMole() {
         super();
     }
@@ -94,7 +97,7 @@ public class WhackAMole {
 
         // Get the x and y coordinates from the user for where they want to whack
         Scanner scanner = new Scanner(System.in);
-        playGame: while (true) {
+        while (true) {
             game.printGrid();
 
             System.out.println("\nYou have " + game.attemptsLeft + " remaining");
@@ -107,11 +110,11 @@ public class WhackAMole {
             game.whack(row, col);
 
             if (row == -1 && col == -1) { // Check the exit condition
-                System.out.println("You have endend the game");
-                break playGame;
+                System.out.println("You have ended the game");
+                break;
             } else if (game.molesLeft == 0) { // Check the win condition
                 System.out.println("You win!");
-                break playGame;
+                break;
             } else if (game.attemptsLeft == 0) { // Check lose condition
                 System.out.println("You lost");
             }
