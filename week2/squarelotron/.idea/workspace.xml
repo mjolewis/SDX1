@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7aa73146-01cd-4509-a451-884a8715dc73" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week1/whackamole/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Squarelotron.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week1/whackamole/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/whackamole/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week1/whackamole/out/production/whackamole/WhackAMole.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/whackamole/out/production/whackamole/WhackAMole.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week1/whackamole/src/WhackAMole.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/whackamole/src/WhackAMole.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week1/whackamole/whackamole.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week1/whackamole/whackamole.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Squarelotron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Squarelotron.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Squarelotron.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="593">
-              <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+            <state relative-caret-position="347">
+              <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -57,11 +52,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-536" />
-    <option name="y" value="-1417" />
-    <option name="width" value="2560" />
-    <option name="height" value="1417" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -90,6 +84,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -156,7 +151,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-536" y="-1417" width="2560" height="1417" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -164,7 +159,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980143" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23819743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -172,7 +167,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32981133" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32981133" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.25815603" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -193,8 +188,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Squarelotron.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="45" column="17" selection-start-line="45" selection-start-column="17" selection-end-line="45" selection-end-column="17" />
+        <state relative-caret-position="347">
+          <caret line="100" column="12" selection-start-line="100" selection-start-column="12" selection-end-line="100" selection-end-column="12" />
         </state>
       </provider>
     </entry>
