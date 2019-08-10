@@ -6,8 +6,8 @@
  */
 
 public class Squarelotron {
-    int[][] squarelotron;
-    int size;
+    private int[][] squarelotron;
+    private int size;
 
     /*
      * Fill the two dimensional array with numbers from 1 to n
@@ -36,13 +36,13 @@ public class Squarelotron {
     /*
      * A helper method to determine if a square is inside the given ring
      */
-    public boolean isOnRing(int i, int j, int ring) {
+    private boolean isOnRing(int i, int j, int ring) {
         boolean isOn = (i == ring - 1 || j == ring - 1 || i == size - ring || j == size - ring);
         boolean isOut = (i <= ring - 2 || j <= ring - 2 || i > size - ring || j > size - ring);
         return isOn && !isOut;
     }
 
-    /*
+    /**
      * This method performs the Upside-Down Flip of the squarelotron and returns the new squarelotron.
      * The original squarelotron should not be modified.
      */
@@ -63,7 +63,7 @@ public class Squarelotron {
         return newSquarelotron;
     }
 
-    /*
+    /**
      * This method performs the Main Diagonal Flip of the squarelotron and returns the new squarelotron.
      * The original squarelotron should not be modified.
      */
@@ -80,7 +80,7 @@ public class Squarelotron {
         return newSquarlotron;
     }
 
-    /*
+    /**
      * The argument numberOfTurns indicates the number of times the entire squarelotron should be rotated 90° clockwise.
      * Any integer, including zero and negative integers, is allowable as the argument. A value of -1 indicates a 90°
      * counterclockwise rotation.
@@ -113,6 +113,5 @@ public class Squarelotron {
             }
             System.out.println();
         }
-
     }
 }
