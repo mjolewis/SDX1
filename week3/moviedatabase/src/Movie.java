@@ -53,4 +53,9 @@ public class Movie implements Comparable<Movie> {
             return 0;
         }
     }
+
+    @Override
+    public String toString() {
+        return "Actor name is: " + name;
+    }
 }
