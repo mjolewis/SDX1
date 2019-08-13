@@ -1,9 +1,13 @@
+import java.util.Arrays;
+
 /**
  * Describes a part of the ocean that does not have a ship in it.
  */
 public class EmptySea extends Ship {
     public EmptySea() {
-        super.setLength(1);
+        this.setLength(1);
+        this.setHit(new boolean[1]);
+        Arrays.fill(this.getHit(), false);
     }
 
     /**
@@ -15,6 +19,7 @@ public class EmptySea extends Ship {
      */
     @Override
     public boolean shootAt(int row, int column) {
+        this.getHit()[0] = true;
         return false;
     }
 
@@ -34,7 +39,7 @@ public class EmptySea extends Ship {
      */
     @Override
     public String toString() {
-        return "~";
+        return this.getHit()[0] == true ? "-" : ".";
     }
 
     /**

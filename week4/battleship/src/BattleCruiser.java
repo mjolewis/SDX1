@@ -1,11 +1,14 @@
+import java.util.Arrays;
+
 /**
  * Descbribes a battlecruiser. A ship that occupies 7 squares.
  */
 public class BattleCruiser extends Ship {
 
     public BattleCruiser() {
-        super.setLength(7);
-        super.setHit(new boolean[7]);
+        this.setLength(7);
+        this.setHit(new boolean[7]);
+        Arrays.fill(this.getHit(), false);
     }
 
     /**

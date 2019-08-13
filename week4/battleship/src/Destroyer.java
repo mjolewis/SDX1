@@ -1,11 +1,14 @@
+import java.util.Arrays;
+
 /**
  * Describes a Destroyer. A ship that occupies 4 squares.
  */
 public class Destroyer extends Ship {
 
     public Destroyer() {
-        super.setLength(4);
-        super.setHit(new boolean[4]);
+        this.setLength(4);
+        this.setHit(new boolean[4]);
+        Arrays.fill(getHit(), false);
     }
 
     /**

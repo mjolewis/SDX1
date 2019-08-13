@@ -1,11 +1,14 @@
+import java.util.Arrays;
+
 /**
  * Describes a LightCruiser. A ship that occupies 5 squares.
  */
 public class LightCruiser extends Ship {
 
     public LightCruiser() {
-        super.setLength(5);
-        super.setHit(new boolean[5]);
+        this.setLength(5);
+        this.setHit(new boolean[5]);
+        Arrays.fill(getHit(), false);
     }
 
     /**

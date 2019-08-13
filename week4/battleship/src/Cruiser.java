@@ -1,11 +1,14 @@
+import java.util.Arrays;
+
 /**
  * Descbribes a Cruiser. A ship that occupies 6 squares.
  */
 public class Cruiser extends Ship {
 
     public Cruiser() {
-        super.setLength(6);
-        super.setHit(new boolean[6]);
+        this.setLength(6);
+        this.setHit(new boolean[6]);
+        Arrays.fill(getHit(), false);
     }
 
     /**

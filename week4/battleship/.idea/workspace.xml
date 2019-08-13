@@ -2,20 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c32fd81-25a9-4e9d-b204-c2aaeb9dcba7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BattleCruiser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BattleShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BattleShipGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cruiser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Destroyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EmptySea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LightCruiser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ocean.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OceanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShipTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Submarine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week3/moviedatabase/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week3/moviedatabase/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week3/moviedatabase/out/production/MovieDatabase/MovieDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/battleship/BattleCruiser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/battleship/BattleCruiser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/battleship/BattleShip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/battleship/BattleShip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/battleship/BattleShipGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/battleship/BattleShipGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/battleship/Cruiser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/battleship/Cruiser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/battleship/Destroyer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/battleship/Destroyer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/battleship/EmptySea.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/battleship/EmptySea.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/battleship/LightCruiser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/battleship/LightCruiser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/battleship/Ocean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/battleship/Ocean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/battleship/Ship.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/battleship/Ship.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/battleship/Submarine.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/battleship/Submarine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BattleCruiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BattleCruiser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BattleShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BattleShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BattleShipGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BattleshipGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cruiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cruiser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Destroyer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Destroyer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EmptySea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmptySea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LightCruiser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LightCruiser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ocean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ocean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ship.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Submarine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Submarine.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,19 +37,28 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BattleshipGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ocean.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
+            <state relative-caret-position="1935">
+              <caret line="129" column="42" selection-start-line="129" selection-start-column="42" selection-end-line="129" selection-end-column="42" />
               <folding>
-                <element signature="e#3950#3951#0" expanded="true" />
-                <element signature="e#3978#3979#0" expanded="true" />
-                <element signature="e#4378#4379#0" expanded="true" />
-                <element signature="e#4411#4412#0" expanded="true" />
-                <element signature="e#4443#4444#0" expanded="true" />
-                <element signature="e#4474#4475#0" expanded="true" />
-                <element signature="e#4761#4762#0" expanded="true" />
-                <element signature="e#4793#4794#0" expanded="true" />
+                <element signature="e#2854#2855#0" expanded="true" />
+                <element signature="e#2877#2878#0" expanded="true" />
+                <element signature="e#4330#4331#0" expanded="true" />
+                <element signature="e#4376#4377#0" expanded="true" />
+                <element signature="e#5659#5660#0" expanded="true" />
+                <element signature="e#5814#5815#0" expanded="true" />
+                <element signature="e#6043#6044#0" expanded="true" />
+                <element signature="e#6195#6196#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,33 +67,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Ship.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="95" column="79" selection-start-line="95" selection-start-column="79" selection-end-line="95" selection-end-column="79" />
+            <state relative-caret-position="889">
+              <caret line="181" column="26" selection-start-line="181" selection-start-column="21" selection-end-line="181" selection-end-column="26" />
               <folding>
-                <element signature="e#4916#4917#0" expanded="true" />
-                <element signature="e#4975#4976#0" expanded="true" />
-                <element signature="e#5052#5053#0" expanded="true" />
-                <element signature="e#5117#5118#0" expanded="true" />
-                <element signature="e#5206#5207#0" expanded="true" />
-                <element signature="e#5265#5266#0" expanded="true" />
-                <element signature="e#5342#5343#0" expanded="true" />
-                <element signature="e#5412#5413#0" expanded="true" />
-                <element signature="e#5509#5510#0" expanded="true" />
-                <element signature="e#5568#5569#0" expanded="true" />
-                <element signature="e#5639#5640#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BattleShipGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-              <folding>
-                <element signature="e#659#660#0" expanded="true" />
-                <element signature="e#700#701#0" expanded="true" />
+                <element signature="e#5542#5543#0" expanded="true" />
+                <element signature="e#5601#5602#0" expanded="true" />
+                <element signature="e#5678#5679#0" expanded="true" />
+                <element signature="e#5743#5744#0" expanded="true" />
+                <element signature="e#5832#5833#0" expanded="true" />
+                <element signature="e#5891#5892#0" expanded="true" />
+                <element signature="e#5968#5969#0" expanded="true" />
+                <element signature="e#6038#6039#0" expanded="true" />
+                <element signature="e#6135#6136#0" expanded="true" />
+                <element signature="e#6194#6195#0" expanded="true" />
+                <element signature="e#6265#6266#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -86,8 +89,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BattleShip.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="150">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
               <folding>
                 <element signature="e#338#339#0" expanded="true" />
                 <element signature="e#365#366#0" expanded="true" />
@@ -99,8 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BattleCruiser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+            <state relative-caret-position="150">
+              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
               <folding>
                 <element signature="e#359#360#0" expanded="true" />
                 <element signature="e#383#384#0" expanded="true" />
@@ -112,8 +115,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Cruiser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+            <state relative-caret-position="150">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding>
                 <element signature="e#318#319#0" expanded="true" />
                 <element signature="e#350#351#0" expanded="true" />
@@ -123,10 +126,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Destroyer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LightCruiser.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="7" />
+              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
               <folding>
                 <element signature="e#352#353#0" expanded="true" />
                 <element signature="e#376#377#0" expanded="true" />
@@ -136,13 +148,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ShipTest.java">
+        <entry file="file://$PROJECT_DIR$/src/Submarine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="675">
-              <caret line="45" column="22" selection-start-line="45" selection-start-column="22" selection-end-line="45" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -150,17 +159,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/EmptySea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OceanTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="585">
+              <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+              <folding>
+                <element signature="e#986#987#0" expanded="true" />
+                <element signature="e#1044#1045#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -182,6 +186,16 @@
       <find>getle</find>
       <find>getl</find>
       <find>getBowRow</find>
+      <find>s</find>
+      <find>&quot;S&quot;</find>
+      <find>isSu</find>
+      <find>shootAt</find>
+      <find>system.out</find>
+      <find>sys</find>
+      <find>placeShip</find>
+      <find>getLe</find>
+      <find>System.out</find>
+      <find>getHi</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -190,19 +204,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/EmptySea.java" />
-        <option value="$PROJECT_DIR$/src/BattleShip.java" />
-        <option value="$PROJECT_DIR$/src/BattleCruiser.java" />
-        <option value="$PROJECT_DIR$/src/LightCruiser.java" />
-        <option value="$PROJECT_DIR$/src/Destroyer.java" />
-        <option value="$PROJECT_DIR$/src/Submarine.java" />
-        <option value="$PROJECT_DIR$/src/Cruiser.java" />
         <option value="$PROJECT_DIR$/src/BattleShipTest.java" />
         <option value="$PROJECT_DIR$/src/OceanTest.java" />
         <option value="$PROJECT_DIR$/src/ShipTest.java" />
         <option value="$PROJECT_DIR$/src/BattleShipGame.java" />
-        <option value="$PROJECT_DIR$/src/Ship.java" />
         <option value="$PROJECT_DIR$/src/Ocean.java" />
+        <option value="$PROJECT_DIR$/src/Ship.java" />
+        <option value="$PROJECT_DIR$/src/EmptySea.java" />
+        <option value="$PROJECT_DIR$/src/BattleCruiser.java" />
+        <option value="$PROJECT_DIR$/src/BattleShip.java" />
+        <option value="$PROJECT_DIR$/src/Cruiser.java" />
+        <option value="$PROJECT_DIR$/src/Destroyer.java" />
+        <option value="$PROJECT_DIR$/src/LightCruiser.java" />
+        <option value="$PROJECT_DIR$/src/Submarine.java" />
+        <option value="$PROJECT_DIR$/src/BattleshipGame.java" />
       </list>
     </option>
   </component>
@@ -250,6 +265,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -266,9 +282,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ShipTest.testDestroyer">
+  <component name="RunManager" selected="Application.BattleShipGame">
     <configuration name="BattleShipGame" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="BattleShipGame" />
+      <option name="MAIN_CLASS_NAME" value="BattleshipGame" />
       <module name="battleship" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -354,12 +370,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ShipTest - 2019.08.12 at 16h 09m 30s.xml">
-      <configuration name="ShipTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="ShipTest - 2019.08.12 at 16h 09m 42s.xml">
-      <configuration name="ShipTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="OceanTest - 2019.08.12 at 18h 19m 05s.xml">
       <configuration name="OceanTest" configurationId="JUnit" />
     </history-entry>
@@ -384,6 +394,12 @@
     <history-entry file="ShipTest_testDestroyer - 2019.08.12 at 20h 01m 40s.xml">
       <configuration name="ShipTest.testDestroyer" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ShipTest_testDestroyer - 2019.08.13 at 10h 37m 01s.xml">
+      <configuration name="ShipTest.testDestroyer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ShipTest_testDestroyer - 2019.08.13 at 10h 37m 27s.xml">
+      <configuration name="ShipTest.testDestroyer" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-536" y="-1440" width="2560" height="1440" extended-state="0" />
@@ -394,7 +410,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13860206" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13860206" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -402,7 +418,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.329927" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16350365" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16350365" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,85 +432,40 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.13860206" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.329927" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.16350365" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Submarine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Destroyer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#355#356#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BattleShipTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BattleShip.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <element signature="e#338#339#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BattleCruiser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <element signature="e#359#360#0" expanded="true" />
-            <element signature="e#383#384#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Cruiser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LightCruiser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <element signature="e#352#353#0" expanded="true" />
-            <element signature="e#376#377#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/OceanTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -508,58 +479,123 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/EmptySea.java">
+    <entry file="file://$PROJECT_DIR$/src/OceanTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BattleShipGame.java">
+    <entry file="file://$PROJECT_DIR$/src/EmptySea.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        <state relative-caret-position="585">
+          <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
           <folding>
-            <element signature="e#659#660#0" expanded="true" />
-            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#986#987#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ship.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="95" column="79" selection-start-line="95" selection-start-column="79" selection-end-line="95" selection-end-column="79" />
+        <state relative-caret-position="889">
+          <caret line="181" column="26" selection-start-line="181" selection-start-column="21" selection-end-line="181" selection-end-column="26" />
           <folding>
-            <element signature="e#4916#4917#0" expanded="true" />
-            <element signature="e#4975#4976#0" expanded="true" />
-            <element signature="e#5052#5053#0" expanded="true" />
-            <element signature="e#5117#5118#0" expanded="true" />
-            <element signature="e#5206#5207#0" expanded="true" />
-            <element signature="e#5265#5266#0" expanded="true" />
-            <element signature="e#5342#5343#0" expanded="true" />
-            <element signature="e#5412#5413#0" expanded="true" />
-            <element signature="e#5509#5510#0" expanded="true" />
-            <element signature="e#5568#5569#0" expanded="true" />
-            <element signature="e#5639#5640#0" expanded="true" />
+            <element signature="e#5542#5543#0" expanded="true" />
+            <element signature="e#5601#5602#0" expanded="true" />
+            <element signature="e#5678#5679#0" expanded="true" />
+            <element signature="e#5743#5744#0" expanded="true" />
+            <element signature="e#5832#5833#0" expanded="true" />
+            <element signature="e#5891#5892#0" expanded="true" />
+            <element signature="e#5968#5969#0" expanded="true" />
+            <element signature="e#6038#6039#0" expanded="true" />
+            <element signature="e#6135#6136#0" expanded="true" />
+            <element signature="e#6194#6195#0" expanded="true" />
+            <element signature="e#6265#6266#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BattleCruiser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BattleShip.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+          <folding>
+            <element signature="e#338#339#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Cruiser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Destroyer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LightCruiser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Submarine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Ocean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="97" column="21" selection-start-line="97" selection-start-column="21" selection-end-line="97" selection-end-column="21" />
+        <state relative-caret-position="1935">
+          <caret line="129" column="42" selection-start-line="129" selection-start-column="42" selection-end-line="129" selection-end-column="42" />
           <folding>
-            <element signature="e#3950#3951#0" expanded="true" />
-            <element signature="e#3978#3979#0" expanded="true" />
-            <element signature="e#4378#4379#0" expanded="true" />
-            <element signature="e#4411#4412#0" expanded="true" />
-            <element signature="e#4443#4444#0" expanded="true" />
-            <element signature="e#4474#4475#0" expanded="true" />
-            <element signature="e#4761#4762#0" expanded="true" />
-            <element signature="e#4793#4794#0" expanded="true" />
+            <element signature="e#2854#2855#0" expanded="true" />
+            <element signature="e#2877#2878#0" expanded="true" />
+            <element signature="e#4330#4331#0" expanded="true" />
+            <element signature="e#4376#4377#0" expanded="true" />
+            <element signature="e#5659#5660#0" expanded="true" />
+            <element signature="e#5814#5815#0" expanded="true" />
+            <element signature="e#6043#6044#0" expanded="true" />
+            <element signature="e#6195#6196#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BattleshipGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
         </state>
       </provider>
     </entry>

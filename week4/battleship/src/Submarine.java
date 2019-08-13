@@ -1,11 +1,14 @@
+import java.util.Arrays;
+
 /**
  * Describes a Submarine. A ship that occupies 3 squares.
  */
 public class Submarine extends Ship {
 
     public Submarine() {
-        super.setLength(3);
-        super.setHit(new boolean[3]);
+        this.setLength(3);
+        this.setHit(new boolean[3]);
+        Arrays.fill(getHit(), false);
     }
 
     /**
